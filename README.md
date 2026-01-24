@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Reeya</h1>
 <h3 align="center">I love building fun things.</h3>
 
